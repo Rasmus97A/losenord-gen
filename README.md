@@ -30,3 +30,22 @@ python --version
 
 koden skriven med Python version 3.13.7
 
+### MAPPTRÄD över hur mappar och filer ligger i projektet.
+pyproj
+│
+├── app/
+│   ├── __init__.py
+│   └── main.py
+│
+├── core/
+│   ├── __init__.py
+│   ├── generator.py
+│   ├── validator.py
+│   └── logger.py
+│
+├── config/
+│   ├── __init__.py
+│   └── settings.py
+│
+├── requirements.txt
+├── README.md
