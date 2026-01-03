@@ -23,3 +23,10 @@ pip install -r requirements.txt
 py run.py
 python run.py
 python3 run.py
+
+# Python version
+
+python --version
+
+koden skriven med Python version 3.13.7
+
